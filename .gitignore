@@ -2,3 +2,5 @@
 *RejectLogs.txt
 *SimilarityLogs.txt
 /Data
+*.jpg
+*.png
